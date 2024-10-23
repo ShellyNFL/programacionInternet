@@ -2,3 +2,5 @@ These programs are basically test codes for try and configure how to manage GIT 
 It contains:
 *HTML
 *CSS
+*JavaScript
+*PHP
